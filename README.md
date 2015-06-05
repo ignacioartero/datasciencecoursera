@@ -1,5 +1,6 @@
 #This is a readme file =)
-## datasciencecoursera
+## This is a markdown file
+## for datasciencecoursera
 ### ignacio artero
 List items: 
 * item 1
