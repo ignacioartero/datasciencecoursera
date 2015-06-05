@@ -1,4 +1,3 @@
-#This is a readme file =)
 ## This is a markdown file
 ## for datasciencecoursera
 ### ignacio artero
